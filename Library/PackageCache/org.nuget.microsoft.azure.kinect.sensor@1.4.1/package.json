@@ -1,0 +1,1 @@
+{"name":"org.nuget.microsoft.azure.kinect.sensor","version":"1.4.1","unity":"2019.1","description":"The Microsoft C, C++, and .NET SDK for interfacing with Azure Kinect","keywords":["nuget","native"],"category":null,"dependencies":{"org.nuget.system.numerics.vectors":"4.5.0","org.nuget.system.memory":"4.5.3"}}
